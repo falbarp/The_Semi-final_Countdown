@@ -1,0 +1,32 @@
+body {
+background: url('../img/bg1.jpg') no-repeat   center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+h1 {
+color: white;
+font-family: 'Roboto Slab', serif; 
+font-weight: 600;   
+}
+
+.flip-clock-wrapper  {   
+margin: auto !important;
+width: 60% !important; 
+margin-top: 25% !important;   
+}
+
+.social-btns {
+text-align: right;
+padding-top: 15%;
+font-size: 50px;
+color: white;
+opacity: 0.8;
+filter: alpha(opacity=80); /* For IE8 and earlier */
+}
+
+.img-responsive {
+padding-top: 25px;
+}
